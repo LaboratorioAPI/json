@@ -2,7 +2,7 @@
   {
     "roblox_id": 756732980,
     "discord": "",
-    "code": "dreck123"
+    "code": ""
   },
   {
     "roblox_id": 2644756576,
