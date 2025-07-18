@@ -1,12 +1,12 @@
 [
   {
     "roblox_id": 756732980,
-    "discord": "DRECK",
-    "code": "teste"
+    "discord": "",
+    "code": "dreck123"
   },
   {
     "roblox_id": 2644756576,
-    "discord": "XL",
-    "code": "teste"
+    "discord": "dawdw",
+    "code": "xl123"
   }
 ]
